@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 4043,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/restart-a-service-from-an-azure-alert-using-log-analytics-and-azure-automation/master/Restart-ServiceFromAzureAlert.ps1",
+    "DownloadCount": 2103,
+    "Id": "Restart-a-service-from-an-7837aec9",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 57,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-8-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This sample automation runbook is designed to take the payload from an Azure Alert based on a Log Analytics query for stopped services. It leverages the change tracking capabilities in Azure Automation to identify services that  are stopped in your environment.",
+    "Title": "Restart a service from an Azure Alert using Log Analytics and Azure Automation",
+    "UpdatedDate": "2018-10-2T00:00:00",
+    "Url": "https://github.com/azureautomation/restart-a-service-from-an-azure-alert-using-log-analytics-and-azure-automation",
+    "UserTags": "Azure Automation, Azure Alert, Azure Log Analytics"
+}
